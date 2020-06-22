@@ -1,0 +1,6 @@
+*.txt
+*.rar
+*.doc
+*.docx
+*.py
+!mainEj*.py
